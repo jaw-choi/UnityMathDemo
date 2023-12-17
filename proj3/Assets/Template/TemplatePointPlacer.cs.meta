@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7167f6fec4d3b7f4d9006beca4d61326
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointPrefab: {fileID: 5029996537610451745, guid: 479339f2030841f4281be2f1168b8f3e, type: 3}
+  - Resetbutton: {fileID: 7135329469320062500, guid: ac2a03d60bf72964bb24c2f88acc8eba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
